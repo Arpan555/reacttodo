@@ -138,7 +138,7 @@ const Testtodo = () => {
                     </div>
 
                     <div className="showItems">
-                        <button className="btn effect04" data-sm-link-text="Remove All" target="_blank" onClick={remvoveAll}><span>CHECK LIST </span></button>
+                        <button className="btn effect04" data-sm-link-text="Remove All" target="_blank" onClick={removeAll}><span>CHECK LIST </span></button>
                     </div>
 
                 </div>
